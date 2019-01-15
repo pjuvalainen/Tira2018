@@ -1,6 +1,8 @@
 # Tira2018
 Data structures 2018 coursework - graph data structure in Java
 
+Tdata.txt contains example data for graph.
+
 Coursework assignment:
 1. Create a graph by reading through the file that contains the points on 2D plane. For each point create a node that contains the point. In addition, for each node find another node that contains a point that is closest to the node in question. (Nearest neighbor). This procedure yields two kind of subgraphs. Subgraphs containing two nodes, and sub graphs containing three nodes. (Connected components)
 2. For each node of the graph add link to the second closest neighbor
